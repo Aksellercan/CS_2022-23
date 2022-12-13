@@ -1,0 +1,15 @@
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\bin\Debug\net6.0\labs3.exe
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\bin\Debug\net6.0\labs3.deps.json
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\bin\Debug\net6.0\labs3.runtimeconfig.json
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\bin\Debug\net6.0\labs3.dll
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\bin\Debug\net6.0\labs3.pdb
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\labs3.csproj.AssemblyReference.cache
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\labs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\labs3.AssemblyInfoInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\labs3.AssemblyInfo.cs
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\labs3.csproj.CoreCompileInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\labs3.dll
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\refint\labs3.dll
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\labs3.pdb
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\labs3.genruntimeconfig.cache
+C:\Users\Aksell\Documents\C# Workspace\labs3\labs3\obj\Debug\net6.0\ref\labs3.dll
