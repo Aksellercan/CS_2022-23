@@ -1,5 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-/*
+// See https://aka.ms/new-console-template for more information
+
 Console.WriteLine("Number ");
 int x = int.Parse(Console.ReadLine());
 if (x % 2 == 1)
@@ -11,9 +11,9 @@ else
     Console.WriteLine("Even");
 }
 
-*/
 
-/*
+
+
 Console.WriteLine("a = ?");
 int a = int.Parse(Console.ReadLine());
 Console.WriteLine("b = ?");
@@ -24,12 +24,12 @@ double d = a + b;
 double u = c / d;
 
 Console.WriteLine(u);
-*/
-/*
+
+
 Console.WriteLine();
 int p = int.Parse(Console.ReadLine());
-*/
-/*
+
+
 Console.WriteLine("First Number = ");
 int n = int.Parse(Console.ReadLine());
 Console.WriteLine("Operation = ");
@@ -47,4 +47,4 @@ switch (k)
 
 
 Console.WriteLine("Result = " + result);
-*/
+
