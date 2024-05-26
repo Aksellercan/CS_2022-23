@@ -1,0 +1,14 @@
+C:\Users\Aksell\Documents\C# Workspace\Leet\bin\Debug\net6.0\Leet.exe
+C:\Users\Aksell\Documents\C# Workspace\Leet\bin\Debug\net6.0\Leet.deps.json
+C:\Users\Aksell\Documents\C# Workspace\Leet\bin\Debug\net6.0\Leet.runtimeconfig.json
+C:\Users\Aksell\Documents\C# Workspace\Leet\bin\Debug\net6.0\Leet.dll
+C:\Users\Aksell\Documents\C# Workspace\Leet\bin\Debug\net6.0\Leet.pdb
+C:\Users\Aksell\Documents\C# Workspace\Leet\obj\Debug\net6.0\Leet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksell\Documents\C# Workspace\Leet\obj\Debug\net6.0\Leet.AssemblyInfoInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\Leet\obj\Debug\net6.0\Leet.AssemblyInfo.cs
+C:\Users\Aksell\Documents\C# Workspace\Leet\obj\Debug\net6.0\Leet.csproj.CoreCompileInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\Leet\obj\Debug\net6.0\Leet.dll
+C:\Users\Aksell\Documents\C# Workspace\Leet\obj\Debug\net6.0\refint\Leet.dll
+C:\Users\Aksell\Documents\C# Workspace\Leet\obj\Debug\net6.0\Leet.pdb
+C:\Users\Aksell\Documents\C# Workspace\Leet\obj\Debug\net6.0\Leet.genruntimeconfig.cache
+C:\Users\Aksell\Documents\C# Workspace\Leet\obj\Debug\net6.0\ref\Leet.dll
