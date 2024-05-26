@@ -1,0 +1,15 @@
+C:\Users\Aksell\Documents\C# Workspace\digdeep\bin\Debug\net6.0\digdeep.exe
+C:\Users\Aksell\Documents\C# Workspace\digdeep\bin\Debug\net6.0\digdeep.deps.json
+C:\Users\Aksell\Documents\C# Workspace\digdeep\bin\Debug\net6.0\digdeep.runtimeconfig.json
+C:\Users\Aksell\Documents\C# Workspace\digdeep\bin\Debug\net6.0\digdeep.dll
+C:\Users\Aksell\Documents\C# Workspace\digdeep\bin\Debug\net6.0\digdeep.pdb
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\digdeep.csproj.AssemblyReference.cache
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\digdeep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\digdeep.AssemblyInfoInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\digdeep.AssemblyInfo.cs
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\digdeep.csproj.CoreCompileInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\digdeep.dll
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\refint\digdeep.dll
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\digdeep.pdb
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\digdeep.genruntimeconfig.cache
+C:\Users\Aksell\Documents\C# Workspace\digdeep\obj\Debug\net6.0\ref\digdeep.dll
