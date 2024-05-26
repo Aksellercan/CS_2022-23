@@ -1,0 +1,14 @@
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\bin\Debug\net6.0\CM Practical Task 7.exe
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\bin\Debug\net6.0\CM Practical Task 7.deps.json
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\bin\Debug\net6.0\CM Practical Task 7.runtimeconfig.json
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\bin\Debug\net6.0\CM Practical Task 7.dll
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\bin\Debug\net6.0\CM Practical Task 7.pdb
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\obj\Debug\net6.0\CM Practical Task 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\obj\Debug\net6.0\CM Practical Task 7.AssemblyInfoInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\obj\Debug\net6.0\CM Practical Task 7.AssemblyInfo.cs
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\obj\Debug\net6.0\CM Practical Task 7.csproj.CoreCompileInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\obj\Debug\net6.0\CM Practical Task 7.dll
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\obj\Debug\net6.0\refint\CM Practical Task 7.dll
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\obj\Debug\net6.0\CM Practical Task 7.pdb
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\obj\Debug\net6.0\CM Practical Task 7.genruntimeconfig.cache
+C:\Users\Aksell\Documents\C# Workspace\CM Practical Task 2\obj\Debug\net6.0\ref\CM Practical Task 7.dll
