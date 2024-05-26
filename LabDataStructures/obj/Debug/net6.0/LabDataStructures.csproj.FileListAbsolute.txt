@@ -1,0 +1,15 @@
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\bin\Debug\net6.0\LabDataStructures.exe
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\bin\Debug\net6.0\LabDataStructures.deps.json
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\bin\Debug\net6.0\LabDataStructures.runtimeconfig.json
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\bin\Debug\net6.0\LabDataStructures.dll
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\bin\Debug\net6.0\LabDataStructures.pdb
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\LabDataStructures.csproj.AssemblyReference.cache
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\LabDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\LabDataStructures.AssemblyInfoInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\LabDataStructures.AssemblyInfo.cs
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\LabDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\LabDataStructures.dll
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\refint\LabDataStructures.dll
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\LabDataStructures.pdb
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\LabDataStructures.genruntimeconfig.cache
+C:\Users\Aksell\Documents\C# Workspace\LabDataStructures\obj\Debug\net6.0\ref\LabDataStructures.dll
